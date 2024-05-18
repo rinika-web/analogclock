@@ -2,7 +2,8 @@
 
 #Description
 
-This project is a simple analog clock implemented using HTML, CSS, and JavaScript. It displays the current time with moving hour, minute, and second hands.
+This project is a simple analog clock implemented using HTML, CSS, and JavaScript. 
+It displays the current time with moving hour, minute, and second hands.
 
 ##Features
 Real-time display of current timeSmooth rotation of clock hands
@@ -30,16 +31,23 @@ Open the index.html file in your web browser to see the analog clock in action.
 ##How It Works
 
 -The JavaScript code retrieves the current time using the Date object.
+
 -It calculates the rotation angles for the hour, minute, and second hands.
+
 -The hands are rotated by updating their CSS transform property.
 
 ##Contributing
 
 If you'd like to contribute to this project, please follow these steps:
+
 -Fork the repository.
+
 -Create a new branch (git checkout -b feature-branch).Make your changes.
+
 -Commit your changes (git commit -m 'Add some feature').
+
 -Push to the branch (git push origin feature-branch).
+
 -Open a pull request.
 
 ##Acknowledgements
