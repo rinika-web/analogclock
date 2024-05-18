@@ -19,7 +19,7 @@ Installation
 
 ##StepsClone the repository: 
 
-git clone [https://github.com/rini-web/analog-clock.git]
+git clone [https://github.com/rinika-web/analog-clock.git]
 
 ##Navigate to the project directory:
 cd analog-clock
